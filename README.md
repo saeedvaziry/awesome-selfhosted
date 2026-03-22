@@ -1426,7 +1426,7 @@ Software that does not fit in another section.
 - [DOCAT](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
 - [Domain Locker](https://domain-locker.com) - Domain name portfolio management and tracker. ([Demo](https://demo.domain-locker.com), [Source Code](https://github.com/lissy93/domain-locker)) `MIT` `Deno/Docker`
 - [DOMJudge](https://www.domjudge.org/) - System for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
-- [Draftila](https://github.com/draftila/draftila) - Collaborative Figma like design tool
+- [Draftila](https://github.com/draftila/draftila) - Collaborative Figma-like design tool
 - [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
 - [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. ([Source Code](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker/deb`
 - [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code](https://github.com/flyimg/flyimg)) `MIT` `Docker`
